@@ -3,4 +3,4 @@ PROTÓTIPO DO SISTEMA ESPECIALISTA
 O protótipo das telas foi desenvolvido no Figma.
 
 Link:
-https://www.figma.com/design/O38IiTV16pOKal1lzIHUHk/Sistema-Especialista---Diagn%25C3%25B3stico-de-Computadores?node-id=2-4&t=SluRLWsKIS8MWXQY-0
+https://www.figma.com/design/O38IiTV16pOKal1lzIHUHk/Sistema-Especialista---Diagn%25C3%25B3stico-de-Computadores?node-id=0-1&p=f&t=SluRLWsKIS8MWXQY-0
