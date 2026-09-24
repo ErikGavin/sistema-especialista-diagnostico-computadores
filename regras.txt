@@ -1,0 +1,47 @@
+REGRAS DO SISTEMA ESPECIALISTA
+
+R01:
+SE o computador não liga
+E não apresenta sinal de energia
+ENTÃO possível problema na fonte de alimentação.
+
+R02:
+SE o computador liga
+E não apresenta vídeo
+ENTÃO possível problema na memória RAM ou cabo de vídeo.
+
+R03:
+SE o computador liga
+E desliga rapidamente
+ENTÃO possível problema de superaquecimento.
+
+R04:
+SE o computador está lento
+E o armazenamento está cheio
+ENTÃO possível falta de espaço de armazenamento.
+
+R05:
+SE o computador está lento
+E possui pouca memória RAM
+ENTÃO possível insuficiência de memória.
+
+R06:
+SE o computador apresenta tela azul frequentemente
+ENTÃO possível problema na memória RAM ou nos drivers.
+
+R07:
+SE o computador desliga durante jogos
+ENTÃO possível temperatura elevada.
+
+R08:
+SE o computador apresenta ruído excessivo
+E temperatura elevada
+ENTÃO possível superaquecimento.
+
+R09:
+SE a internet está lenta somente no computador
+ENTÃO possível problema de configuração ou conexão de rede.
+
+R10:
+SE o computador reinicia sozinho
+ENTÃO possível problema de fonte, temperatura ou sistema.
