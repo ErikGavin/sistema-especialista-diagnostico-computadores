@@ -1,0 +1,32 @@
+BASE DE CONHECIMENTO
+Sistema Especialista para Diagnóstico de Problemas em Computadores
+
+D01 - Computador não liga e não apresenta sinal de energia.
+Diagnóstico: possível problema na fonte de alimentação.
+
+D02 - Computador liga, mas não apresenta vídeo.
+Diagnóstico: possível problema na memória RAM ou cabo de vídeo.
+
+D03 - Computador liga e desliga rapidamente.
+Diagnóstico: possível problema de superaquecimento.
+
+D04 - Computador apresenta lentidão e armazenamento cheio.
+Diagnóstico: possível falta de espaço de armazenamento.
+
+D05 - Computador apresenta lentidão e possui pouca memória RAM.
+Diagnóstico: possível insuficiência de memória.
+
+D06 - Computador apresenta tela azul frequentemente.
+Diagnóstico: possível problema na memória RAM ou nos drivers.
+
+D07 - Computador desliga durante jogos.
+Diagnóstico: possível temperatura elevada.
+
+D08 - Computador apresenta ruído excessivo e temperatura elevada.
+Diagnóstico: possível superaquecimento.
+
+D09 - Internet apresenta lentidão somente no computador.
+Diagnóstico: possível problema de configuração ou conexão de rede.
+
+D10 - Computador reinicia sozinho.
+Diagnóstico: possível problema de fonte, temperatura ou sistema.
